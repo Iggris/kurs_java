@@ -3,7 +3,6 @@ package pracownia7;
 import pracownia7.structures.SimpleList;
 import java.util.Date;
 
-import javax.xml.crypto.Data;
 public class SimpleListTest {
 
     public static void main(String[] args) {
